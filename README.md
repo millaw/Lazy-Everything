@@ -8,6 +8,5 @@
 
 1. Upload ZIP via Plugins → Add New → Upload
 2. Activate it
-3. Use Block / Shortcode / Classic Editor Button
 
 License: GPLv2 or later
